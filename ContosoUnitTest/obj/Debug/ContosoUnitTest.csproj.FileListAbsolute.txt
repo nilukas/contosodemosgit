@@ -1,0 +1,5 @@
+C:\C2C\IterationProjects\Iteration1\ContosoUniversity\ContosoUnitTest\bin\Debug\ContosoUnitTest.dll
+C:\C2C\IterationProjects\Iteration1\ContosoUniversity\ContosoUnitTest\bin\Debug\ContosoUnitTest.pdb
+C:\C2C\IterationProjects\Iteration1\ContosoUniversity\ContosoUnitTest\obj\Debug\ContosoUnitTest.csprojResolveAssemblyReference.cache
+C:\C2C\IterationProjects\Iteration1\ContosoUniversity\ContosoUnitTest\obj\Debug\ContosoUnitTest.dll
+C:\C2C\IterationProjects\Iteration1\ContosoUniversity\ContosoUnitTest\obj\Debug\ContosoUnitTest.pdb
